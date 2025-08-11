@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Player Cards</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="scripts.js" defer></script>
+</head>
+<body>
+  <header>
+    <div id="filters">
+      <div id="formats" class="filter-group"></div>
+      <div id="teams" class="filter-group"></div>
+      <div id="positions" class="filter-group"></div>
+    </div>
+    <div id="display-options">
+      <div id="colors" class="filter-group"></div>
+      <div id="sizes" class="filter-group">
+        <button data-value="sm" class="active">Sm</button>
+        <button data-value="md">Md</button>
+        <button data-value="lg">Lg</button>
+      </div>
+      <div id="views" class="filter-group">
+        <button id="board-view" class="active">Board</button>
+        <button id="list-view">List</button>
+      </div>
+    </div>
+  </header>
+  
+  <main id="players" class="board"></main>
+</body>
+</html>

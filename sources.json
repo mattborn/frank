@@ -1,0 +1,62 @@
+{
+  "sources": [
+    {
+      "name": "Fantasy Football Calculator",
+      "baseUrl": "https://fantasyfootballcalculator.com/api/v1/adp",
+      "fields": ["bye", "name", "position", "team"],
+      "formats": [
+        {
+          "name": "2qb",
+          "teams": [10, 12]
+        },
+        {
+          "name": "half-ppr"
+        },
+        {
+          "name": "ppr"
+        },
+        {
+          "name": "standard"
+        }
+      ]
+    },
+    {
+      "name": "ESPN",
+      "baseUrl": "https://fantasy.espn.com/apis/v3/games/ffl/seasons/2025",
+      "skip": true,
+      "formats": [
+        {
+          "name": "standard",
+          "teams": [8, 10, 12]
+        }
+      ]
+    },
+    {
+      "name": "NFL",
+      "baseUrl": "https://api.nfl.com/fantasy/v2/players/adp",
+      "skip": true,
+      "formats": [
+        {
+          "name": "standard",
+          "teams": [10, 12]
+        }
+      ]
+    },
+    {
+      "name": "Sleeper",
+      "baseUrl": "https://api.sleeper.app/v1/players/nfl",
+      "skip": true
+    },
+    {
+      "name": "Yahoo",
+      "baseUrl": "https://fantasysports.yahooapis.com/fantasy/v2/league",
+      "skip": true,
+      "formats": [
+        {
+          "name": "half-ppr",
+          "teams": [10, 12]
+        }
+      ]
+    }
+  ]
+}
