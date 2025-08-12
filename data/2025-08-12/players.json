@@ -1,0 +1,3005 @@
+{
+  "date": "2025-08-12",
+  "sources": 5,
+  "totalPlayers": 250,
+  "players": [
+    {
+      "bye": 7,
+      "espn_id": "3916387",
+      "formats": {
+        "2qb": 1,
+        "half-ppr": 20,
+        "ppr": 20,
+        "standard": 12
+      },
+      "name": "Lamar Jackson",
+      "position": "QB",
+      "team": "BAL"
+    },
+    {
+      "bye": 7,
+      "espn_id": "3918298",
+      "formats": {
+        "2qb": 2,
+        "half-ppr": 21,
+        "ppr": 25,
+        "standard": 17
+      },
+      "name": "Josh Allen",
+      "position": "QB",
+      "team": "BUF"
+    },
+    {
+      "bye": 10,
+      "espn_id": "3915511",
+      "formats": {
+        "2qb": 3,
+        "half-ppr": 25,
+        "ppr": 30,
+        "standard": 22
+      },
+      "name": "Joe Burrow",
+      "position": "QB",
+      "team": "CIN"
+    },
+    {
+      "bye": 12,
+      "espn_id": "4426348",
+      "formats": {
+        "2qb": 4,
+        "half-ppr": 29,
+        "ppr": 33,
+        "standard": 23
+      },
+      "name": "Jayden Daniels",
+      "position": "QB",
+      "team": "WAS"
+    },
+    {
+      "bye": 9,
+      "espn_id": "3929630",
+      "formats": {
+        "2qb": 5,
+        "half-ppr": 2,
+        "ppr": 3,
+        "standard": 1
+      },
+      "name": "Saquon Barkley",
+      "position": "RB",
+      "team": "PHI"
+    },
+    {
+      "bye": 9,
+      "espn_id": "4040715",
+      "formats": {
+        "2qb": 6,
+        "half-ppr": 41,
+        "ppr": 43,
+        "standard": 31
+      },
+      "name": "Jalen Hurts",
+      "position": "QB",
+      "team": "PHI"
+    },
+    {
+      "bye": 5,
+      "espn_id": "4430807",
+      "formats": {
+        "2qb": 7,
+        "half-ppr": 3,
+        "ppr": 2,
+        "standard": 2
+      },
+      "name": "Bijan Robinson",
+      "position": "RB",
+      "team": "ATL"
+    },
+    {
+      "bye": 7,
+      "espn_id": "3043078",
+      "formats": {
+        "2qb": 8,
+        "half-ppr": 5,
+        "ppr": 10
+      },
+      "name": "Derrick Henry",
+      "position": "RB",
+      "team": "BAL"
+    },
+    {
+      "bye": 10,
+      "espn_id": "4362628",
+      "formats": {
+        "2qb": 9,
+        "half-ppr": 1,
+        "ppr": 1,
+        "standard": 3
+      },
+      "name": "Ja'Marr Chase",
+      "position": "WR",
+      "team": "CIN"
+    },
+    {
+      "bye": 10,
+      "espn_id": "3139477",
+      "formats": {
+        "2qb": 10,
+        "half-ppr": 53,
+        "ppr": 52,
+        "standard": 44
+      },
+      "name": "Patrick Mahomes",
+      "position": "QB",
+      "team": "KC"
+    },
+    {
+      "bye": 9,
+      "espn_id": "3052587",
+      "formats": {
+        "2qb": 11,
+        "half-ppr": 52,
+        "ppr": 49,
+        "standard": 49
+      },
+      "name": "Baker Mayfield",
+      "position": "QB",
+      "team": "TB"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4429795",
+      "formats": {
+        "2qb": 12,
+        "half-ppr": 4,
+        "ppr": 4,
+        "standard": 4
+      },
+      "name": "Jahmyr Gibbs",
+      "position": "RB",
+      "team": "DET"
+    },
+    {
+      "bye": 12,
+      "espn_id": "4426338",
+      "formats": {
+        "2qb": 13,
+        "half-ppr": 69,
+        "ppr": 72,
+        "standard": 66
+      },
+      "name": "Bo Nix",
+      "position": "QB",
+      "team": "DEN"
+    },
+    {
+      "bye": 6,
+      "espn_id": "4262921",
+      "formats": {
+        "2qb": 14,
+        "half-ppr": 6,
+        "ppr": 5,
+        "standard": 5
+      },
+      "name": "Justin Jefferson",
+      "position": "WR",
+      "team": "MIN"
+    },
+    {
+      "bye": 11,
+      "espn_id": "4242335",
+      "formats": {
+        "2qb": 15,
+        "half-ppr": 14,
+        "ppr": 18,
+        "standard": 6
+      },
+      "name": "Jonathan Taylor",
+      "position": "RB",
+      "team": "IND"
+    },
+    {
+      "bye": 14,
+      "espn_id": "4361741",
+      "formats": {
+        "2qb": 16,
+        "ppr": 78,
+        "standard": 79
+      },
+      "name": "Brock Purdy",
+      "position": "QB",
+      "team": "SF"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4890973",
+      "formats": {
+        "2qb": 17,
+        "half-ppr": 9,
+        "ppr": 12,
+        "standard": 8
+      },
+      "name": "Ashton Jeanty",
+      "position": "RB",
+      "team": "LV"
+    },
+    {
+      "bye": 8,
+      "espn_id": "3917315",
+      "formats": {
+        "2qb": 18,
+        "half-ppr": 83,
+        "ppr": 84,
+        "standard": 86
+      },
+      "name": "Kyler Murray",
+      "position": "QB",
+      "team": "ARI"
+    },
+    {
+      "bye": 5,
+      "espn_id": "4047365",
+      "formats": {
+        "2qb": 19,
+        "half-ppr": 11,
+        "ppr": 15,
+        "standard": 7
+      },
+      "name": "Josh Jacobs",
+      "position": "RB",
+      "team": "GB"
+    },
+    {
+      "bye": 10,
+      "espn_id": "4241389",
+      "formats": {
+        "2qb": 20,
+        "half-ppr": 7,
+        "ppr": 6,
+        "standard": 9
+      },
+      "name": "CeeDee Lamb",
+      "position": "WR",
+      "team": "DAL"
+    },
+    {
+      "bye": 14,
+      "espn_id": "3117251",
+      "formats": {
+        "2qb": 21,
+        "half-ppr": 8,
+        "ppr": 7,
+        "standard": 10
+      },
+      "name": "Christian McCaffrey",
+      "position": "RB",
+      "team": "SF"
+    },
+    {
+      "bye": 10,
+      "espn_id": "2577417",
+      "formats": {
+        "2qb": 22,
+        "half-ppr": 91,
+        "ppr": 89,
+        "standard": 89
+      },
+      "name": "Dak Prescott",
+      "position": "QB",
+      "team": "DAL"
+    },
+    {
+      "bye": 6,
+      "espn_id": "4258173",
+      "formats": {
+        "2qb": 23,
+        "half-ppr": 12,
+        "ppr": 13,
+        "standard": 11
+      },
+      "name": "Nico Collins",
+      "position": "WR",
+      "team": "HOU"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4430737",
+      "formats": {
+        "2qb": 24,
+        "half-ppr": 16,
+        "ppr": 21,
+        "standard": 13
+      },
+      "name": "Kyren Williams",
+      "position": "RB",
+      "team": "LAR"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4426515",
+      "formats": {
+        "2qb": 25,
+        "half-ppr": 13,
+        "ppr": 9,
+        "standard": 14
+      },
+      "name": "Puka Nacua",
+      "position": "WR",
+      "team": "LAR"
+    },
+    {
+      "bye": 8,
+      "espn_id": "3046779",
+      "formats": {
+        "2qb": 26,
+        "half-ppr": 98,
+        "ppr": 96,
+        "standard": 96
+      },
+      "name": "Jared Goff",
+      "position": "QB",
+      "team": "DET"
+    },
+    {
+      "bye": 12,
+      "espn_id": "4429160",
+      "formats": {
+        "2qb": 27,
+        "half-ppr": 10,
+        "ppr": 8,
+        "standard": 15
+      },
+      "name": "De'Von Achane",
+      "position": "RB",
+      "team": "MIA"
+    },
+    {
+      "bye": 14,
+      "espn_id": "4595348",
+      "formats": {
+        "2qb": 28,
+        "half-ppr": 15,
+        "ppr": 11,
+        "standard": 16
+      },
+      "name": "Malik Nabers",
+      "position": "WR",
+      "team": "NYG"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4432773",
+      "formats": {
+        "2qb": 29,
+        "half-ppr": 18,
+        "ppr": 16,
+        "standard": 18
+      },
+      "name": "Brian Thomas Jr.",
+      "position": "WR",
+      "team": "JAX"
+    },
+    {
+      "bye": 9,
+      "espn_id": "4596448",
+      "formats": {
+        "2qb": 30,
+        "half-ppr": 19,
+        "ppr": 17,
+        "standard": 19
+      },
+      "name": "Bucky Irving",
+      "position": "RB",
+      "team": "TB"
+    },
+    {
+      "bye": 5,
+      "espn_id": "4431611",
+      "formats": {
+        "2qb": 31,
+        "half-ppr": 107,
+        "ppr": 106,
+        "standard": 106
+      },
+      "name": "Caleb Williams",
+      "position": "QB",
+      "team": "CHI"
+    },
+    {
+      "bye": 9,
+      "espn_id": "4047646",
+      "formats": {
+        "2qb": 32,
+        "half-ppr": 22,
+        "ppr": 22,
+        "standard": 20
+      },
+      "name": "A.J. Brown",
+      "position": "WR",
+      "team": "PHI"
+    },
+    {
+      "bye": 12,
+      "espn_id": "4038941",
+      "formats": {
+        "2qb": 33,
+        "half-ppr": 112,
+        "ppr": 110,
+        "standard": 113
+      },
+      "name": "Justin Herbert",
+      "position": "QB",
+      "team": "LAC"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4374302",
+      "formats": {
+        "2qb": 34,
+        "half-ppr": 17,
+        "ppr": 14,
+        "standard": 21
+      },
+      "name": "Amon-Ra St. Brown",
+      "position": "WR",
+      "team": "DET"
+    },
+    {
+      "bye": 9,
+      "espn_id": "4362887",
+      "formats": {
+        "2qb": 35,
+        "half-ppr": 106,
+        "ppr": 109,
+        "standard": 100
+      },
+      "name": "Justin Fields",
+      "position": "QB",
+      "team": "NYJ"
+    },
+    {
+      "bye": 5,
+      "espn_id": "4426502",
+      "formats": {
+        "2qb": 36,
+        "half-ppr": 24,
+        "ppr": 19,
+        "standard": 24
+      },
+      "name": "Drake London",
+      "position": "WR",
+      "team": "ATL"
+    },
+    {
+      "bye": 7,
+      "espn_id": "4379399",
+      "formats": {
+        "2qb": 37,
+        "half-ppr": 28,
+        "ppr": 35,
+        "standard": 25
+      },
+      "name": "James Cook",
+      "position": "RB",
+      "team": "BUF"
+    },
+    {
+      "bye": 5,
+      "espn_id": "4036378",
+      "formats": {
+        "2qb": 38,
+        "half-ppr": 122,
+        "ppr": 122,
+        "standard": 120
+      },
+      "name": "Jordan Love",
+      "position": "QB",
+      "team": "GB"
+    },
+    {
+      "bye": 10,
+      "espn_id": "4362238",
+      "formats": {
+        "2qb": 39,
+        "half-ppr": 23,
+        "ppr": 23,
+        "standard": 27
+      },
+      "name": "Chase Brown",
+      "position": "RB",
+      "team": "CIN"
+    },
+    {
+      "bye": 6,
+      "espn_id": "4433970",
+      "formats": {
+        "2qb": 40,
+        "half-ppr": 110,
+        "ppr": 115,
+        "standard": 111
+      },
+      "name": "J.J. McCarthy",
+      "position": "QB",
+      "team": "MIN"
+    },
+    {
+      "bye": 12,
+      "espn_id": "4612826",
+      "formats": {
+        "2qb": 41,
+        "half-ppr": 27,
+        "ppr": 24,
+        "standard": 28
+      },
+      "name": "Ladd McConkey",
+      "position": "WR",
+      "team": "LAC"
+    },
+    {
+      "bye": 9,
+      "espn_id": "16737",
+      "formats": {
+        "2qb": 42,
+        "half-ppr": 32,
+        "ppr": 34,
+        "standard": 29
+      },
+      "name": "Mike Evans",
+      "position": "WR",
+      "team": "TB"
+    },
+    {
+      "bye": 10,
+      "espn_id": "4239993",
+      "formats": {
+        "2qb": 43,
+        "half-ppr": 26,
+        "ppr": 26,
+        "standard": 26
+      },
+      "name": "Tee Higgins",
+      "position": "WR",
+      "team": "CIN"
+    },
+    {
+      "bye": 8,
+      "espn_id": "16800",
+      "formats": {
+        "2qb": 44,
+        "half-ppr": 31,
+        "ppr": 31,
+        "standard": 30
+      },
+      "name": "Davante Adams",
+      "position": "WR",
+      "team": "LAR"
+    },
+    {
+      "bye": 12,
+      "espn_id": "3116406",
+      "formats": {
+        "2qb": 45,
+        "half-ppr": 30,
+        "ppr": 29,
+        "standard": 32
+      },
+      "name": "Tyreek Hill",
+      "position": "WR",
+      "team": "MIA"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4432708",
+      "formats": {
+        "2qb": 46,
+        "half-ppr": 38,
+        "ppr": 41,
+        "standard": 33
+      },
+      "name": "Marvin Harrison Jr.",
+      "position": "WR",
+      "team": "ARI"
+    },
+    {
+      "bye": 6,
+      "espn_id": "4432577",
+      "formats": {
+        "2qb": 47,
+        "half-ppr": 132,
+        "ppr": 130,
+        "standard": 126
+      },
+      "name": "C.J. Stroud",
+      "position": "QB",
+      "team": "HOU"
+    },
+    {
+      "bye": 8,
+      "espn_id": "3045147",
+      "formats": {
+        "2qb": 48,
+        "half-ppr": 35,
+        "ppr": 37,
+        "standard": 35
+      },
+      "name": "James Conner",
+      "position": "RB",
+      "team": "ARI"
+    },
+    {
+      "bye": 14,
+      "espn_id": "4241416",
+      "formats": {
+        "2qb": 49,
+        "half-ppr": 39,
+        "ppr": 40,
+        "standard": 36
+      },
+      "name": "Chuba Hubbard",
+      "position": "RB",
+      "team": "CAR"
+    },
+    {
+      "bye": 9,
+      "espn_id": "4427366",
+      "formats": {
+        "2qb": 50,
+        "half-ppr": 34,
+        "ppr": 36,
+        "standard": 39
+      },
+      "name": "Breece Hall",
+      "position": "RB",
+      "team": "NYJ"
+    },
+    {
+      "bye": 12,
+      "espn_id": "3121422",
+      "formats": {
+        "2qb": 51,
+        "half-ppr": 42,
+        "ppr": 42,
+        "standard": 37
+      },
+      "name": "Terry McLaurin",
+      "position": "WR",
+      "team": "WAS"
+    },
+    {
+      "bye": 12,
+      "espn_id": "4685382",
+      "formats": {
+        "2qb": 52,
+        "half-ppr": 40,
+        "ppr": 44,
+        "standard": 34
+      },
+      "name": "Omarion Hampton",
+      "position": "RB",
+      "team": "LAC"
+    },
+    {
+      "bye": 14,
+      "espn_id": "4431452",
+      "formats": {
+        "2qb": 53,
+        "half-ppr": 134,
+        "ppr": 137,
+        "standard": 128
+      },
+      "name": "Drake Maye",
+      "position": "QB",
+      "team": "NE"
+    },
+    {
+      "bye": 5,
+      "espn_id": "4047650",
+      "formats": {
+        "2qb": 54,
+        "half-ppr": 44,
+        "ppr": 48,
+        "standard": 38
+      },
+      "name": "DK Metcalf",
+      "position": "WR",
+      "team": "PIT"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4567048",
+      "formats": {
+        "2qb": 55,
+        "half-ppr": 36,
+        "ppr": 38,
+        "standard": 40
+      },
+      "name": "Kenneth Walker III",
+      "position": "RB",
+      "team": "SEA"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4360310",
+      "formats": {
+        "2qb": 56,
+        "half-ppr": 140,
+        "ppr": 150,
+        "standard": 142
+      },
+      "name": "Trevor Lawrence",
+      "position": "QB",
+      "team": "JAX"
+    },
+    {
+      "bye": 11,
+      "espn_id": "3054850",
+      "formats": {
+        "2qb": 57,
+        "half-ppr": 33,
+        "ppr": 28,
+        "standard": 41
+      },
+      "name": "Alvin Kamara",
+      "position": "RB",
+      "team": "NO"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4432665",
+      "formats": {
+        "2qb": 58,
+        "half-ppr": 37,
+        "ppr": 27,
+        "standard": 45
+      },
+      "name": "Brock Bowers",
+      "position": "TE",
+      "team": "LV"
+    },
+    {
+      "bye": 14,
+      "espn_id": "3040151",
+      "formats": {
+        "2qb": 59,
+        "half-ppr": 48,
+        "ppr": 46,
+        "standard": 47
+      },
+      "name": "George Kittle",
+      "position": "TE",
+      "team": "SF"
+    },
+    {
+      "bye": 12,
+      "espn_id": "3128429",
+      "formats": {
+        "2qb": 60,
+        "half-ppr": 54,
+        "ppr": 50,
+        "standard": 42
+      },
+      "name": "Courtland Sutton",
+      "position": "WR",
+      "team": "DEN"
+    },
+    {
+      "bye": 10,
+      "espn_id": "4683062",
+      "formats": {
+        "2qb": 61,
+        "half-ppr": 50,
+        "ppr": 54,
+        "standard": 43
+      },
+      "name": "Xavier Worthy",
+      "position": "WR",
+      "team": "KC"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4430878",
+      "formats": {
+        "2qb": 62,
+        "half-ppr": 45,
+        "ppr": 39,
+        "standard": 48
+      },
+      "name": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "team": "SEA"
+    },
+    {
+      "bye": 9,
+      "espn_id": "4569618",
+      "formats": {
+        "2qb": 63,
+        "half-ppr": 46,
+        "ppr": 45,
+        "standard": 46
+      },
+      "name": "Garrett Wilson",
+      "position": "WR",
+      "team": "NYJ"
+    },
+    {
+      "bye": 12,
+      "espn_id": "4241479",
+      "formats": {
+        "2qb": 64,
+        "ppr": 155,
+        "standard": 147
+      },
+      "name": "Tua Tagovailoa",
+      "position": "QB",
+      "team": "MIA"
+    },
+    {
+      "bye": 5,
+      "espn_id": "3915416",
+      "formats": {
+        "2qb": 65,
+        "half-ppr": 47,
+        "ppr": 47,
+        "standard": 50
+      },
+      "name": "DJ Moore",
+      "position": "WR",
+      "team": "CHI"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4035538",
+      "formats": {
+        "2qb": 66,
+        "half-ppr": 51,
+        "ppr": 57,
+        "standard": 51
+      },
+      "name": "David Montgomery",
+      "position": "RB",
+      "team": "DET"
+    },
+    {
+      "bye": 9,
+      "espn_id": "4241478",
+      "formats": {
+        "2qb": 67,
+        "half-ppr": 49,
+        "ppr": 51,
+        "standard": 53
+      },
+      "name": "DeVonta Smith",
+      "position": "WR",
+      "team": "PHI"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4361307",
+      "formats": {
+        "2qb": 68,
+        "half-ppr": 43,
+        "ppr": 32,
+        "standard": 55
+      },
+      "name": "Trey McBride",
+      "position": "TE",
+      "team": "ARI"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4426388",
+      "formats": {
+        "2qb": 69,
+        "half-ppr": 58,
+        "ppr": 71,
+        "standard": 52
+      },
+      "name": "Jameson Williams",
+      "position": "WR",
+      "team": "DET"
+    },
+    {
+      "bye": 8,
+      "espn_id": "12483",
+      "formats": {
+        "2qb": 70,
+        "half-ppr": 156,
+        "ppr": 170
+      },
+      "name": "Matthew Stafford",
+      "position": "QB",
+      "team": "LAR"
+    },
+    {
+      "bye": 5,
+      "espn_id": "4259545",
+      "formats": {
+        "2qb": 71,
+        "half-ppr": 55,
+        "ppr": 53,
+        "standard": 54
+      },
+      "name": "D'Andre Swift",
+      "position": "RB",
+      "team": "CHI"
+    },
+    {
+      "bye": 10,
+      "espn_id": "3925357",
+      "formats": {
+        "2qb": 72,
+        "half-ppr": 60,
+        "ppr": 62,
+        "standard": 56
+      },
+      "name": "Calvin Ridley",
+      "position": "WR",
+      "team": "TEN"
+    },
+    {
+      "bye": 8,
+      "espn_id": "15864",
+      "formats": {
+        "2qb": 73,
+        "ppr": 176
+      },
+      "name": "Geno Smith",
+      "position": "QB",
+      "team": "LV"
+    },
+    {
+      "bye": 10,
+      "espn_id": "4426354",
+      "formats": {
+        "2qb": 74,
+        "half-ppr": 61,
+        "ppr": 60,
+        "standard": 59
+      },
+      "name": "George Pickens",
+      "position": "WR",
+      "team": "DAL"
+    },
+    {
+      "bye": 7,
+      "espn_id": "4429615",
+      "formats": {
+        "2qb": 75,
+        "half-ppr": 56,
+        "ppr": 56,
+        "standard": 58
+      },
+      "name": "Zay Flowers",
+      "position": "WR",
+      "team": "BAL"
+    },
+    {
+      "bye": 6,
+      "espn_id": "3042519",
+      "formats": {
+        "2qb": 76,
+        "half-ppr": 59,
+        "ppr": 55,
+        "standard": 61
+      },
+      "name": "Aaron Jones",
+      "position": "RB",
+      "team": "MIN"
+    },
+    {
+      "bye": 14,
+      "espn_id": "4432710",
+      "formats": {
+        "2qb": 77,
+        "half-ppr": 57,
+        "ppr": 59,
+        "standard": 57
+      },
+      "name": "TreVeyon Henderson",
+      "position": "RB",
+      "team": "NE"
+    },
+    {
+      "bye": 5,
+      "espn_id": "4819231",
+      "formats": {
+        "2qb": 78,
+        "half-ppr": 68,
+        "ppr": 74,
+        "standard": 60
+      },
+      "name": "Kaleb Johnson",
+      "position": "RB",
+      "team": "PIT"
+    },
+    {
+      "bye": 10,
+      "espn_id": "3916148",
+      "formats": {
+        "2qb": 79,
+        "half-ppr": 62,
+        "ppr": 61,
+        "standard": 62
+      },
+      "name": "Tony Pollard",
+      "position": "RB",
+      "team": "TEN"
+    },
+    {
+      "bye": 6,
+      "espn_id": "3116385",
+      "formats": {
+        "2qb": 80,
+        "half-ppr": 66,
+        "ppr": 67,
+        "standard": 68
+      },
+      "name": "Joe Mixon",
+      "position": "RB",
+      "team": "HOU"
+    },
+    {
+      "bye": 5,
+      "espn_id": "4360423",
+      "formats": {
+        "2qb": 81,
+        "half-ppr": 163,
+        "ppr": 190,
+        "standard": 148
+      },
+      "name": "Michael Penix Jr.",
+      "position": "QB",
+      "team": "ATL"
+    },
+    {
+      "bye": 14,
+      "espn_id": "4685472",
+      "formats": {
+        "2qb": 82,
+        "half-ppr": 63,
+        "ppr": 65,
+        "standard": 63
+      },
+      "name": "Tetairoa McMillan",
+      "position": "WR",
+      "team": "CAR"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4430027",
+      "formats": {
+        "2qb": 83,
+        "half-ppr": 67,
+        "ppr": 64,
+        "standard": 67
+      },
+      "name": "Sam LaPorta",
+      "position": "TE",
+      "team": "DET"
+    },
+    {
+      "bye": 9,
+      "espn_id": "4241463",
+      "formats": {
+        "2qb": 84,
+        "half-ppr": 65,
+        "ppr": 58,
+        "standard": 65
+      },
+      "name": "Jerry Jeudy",
+      "position": "WR",
+      "team": "CLE"
+    },
+    {
+      "bye": 12,
+      "espn_id": "3126486",
+      "formats": {
+        "2qb": 85,
+        "half-ppr": 76,
+        "ppr": 79,
+        "standard": 64
+      },
+      "name": "Deebo Samuel Sr.",
+      "position": "WR",
+      "team": "WAS"
+    },
+    {
+      "bye": 12,
+      "espn_id": "4241474",
+      "formats": {
+        "2qb": 86,
+        "half-ppr": 75,
+        "ppr": 82,
+        "standard": 69
+      },
+      "name": "Brian Robinson Jr.",
+      "position": "RB",
+      "team": "WAS"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4685415",
+      "formats": {
+        "2qb": 87,
+        "half-ppr": 78,
+        "ppr": 80,
+        "standard": 70
+      },
+      "name": "Travis Hunter",
+      "position": "WR",
+      "team": "JAX"
+    },
+    {
+      "bye": 14,
+      "espn_id": "3886598",
+      "formats": {
+        "2qb": 88,
+        "half-ppr": 77,
+        "ppr": 75,
+        "standard": 74
+      },
+      "name": "Jauan Jennings",
+      "position": "WR",
+      "team": "SF"
+    },
+    {
+      "bye": 12,
+      "espn_id": "4372016",
+      "formats": {
+        "2qb": 89,
+        "half-ppr": 71,
+        "ppr": 68,
+        "standard": 72
+      },
+      "name": "Jaylen Waddle",
+      "position": "WR",
+      "team": "MIA"
+    },
+    {
+      "bye": 10,
+      "espn_id": "4361529",
+      "formats": {
+        "2qb": 90,
+        "half-ppr": 70,
+        "ppr": 69,
+        "standard": 73
+      },
+      "name": "Isiah Pacheco",
+      "position": "RB",
+      "team": "KC"
+    },
+    {
+      "bye": 12,
+      "espn_id": "4568490",
+      "formats": {
+        "2qb": 91,
+        "half-ppr": 64,
+        "ppr": 66,
+        "standard": 71
+      },
+      "name": "RJ Harvey",
+      "position": "RB",
+      "team": "DEN"
+    },
+    {
+      "bye": 14,
+      "espn_id": "4685720",
+      "formats": {
+        "2qb": 92,
+        "ppr": 205
+      },
+      "name": "Bryce Young",
+      "position": "QB",
+      "team": "CAR"
+    },
+    {
+      "bye": 8,
+      "espn_id": "3912547",
+      "formats": {
+        "2qb": 93,
+        "ppr": 221
+      },
+      "name": "Sam Darnold",
+      "position": "QB",
+      "team": "SEA"
+    },
+    {
+      "bye": 7,
+      "espn_id": "3116365",
+      "formats": {
+        "2qb": 94,
+        "half-ppr": 85,
+        "ppr": 91,
+        "standard": 77
+      },
+      "name": "Mark Andrews",
+      "position": "TE",
+      "team": "BAL"
+    },
+    {
+      "bye": 8,
+      "espn_id": "3916433",
+      "formats": {
+        "2qb": 95,
+        "half-ppr": 72,
+        "ppr": 63,
+        "standard": 76
+      },
+      "name": "Jakobi Meyers",
+      "position": "WR",
+      "team": "LV"
+    },
+    {
+      "bye": 5,
+      "espn_id": "4362249",
+      "formats": {
+        "2qb": 96,
+        "half-ppr": 89,
+        "ppr": 92,
+        "standard": 75
+      },
+      "name": "Jayden Reed",
+      "position": "WR",
+      "team": "GB"
+    },
+    {
+      "bye": 10,
+      "espn_id": "4428331",
+      "formats": {
+        "2qb": 97,
+        "half-ppr": 80,
+        "ppr": 73,
+        "standard": 83
+      },
+      "name": "Rashee Rice",
+      "position": "WR",
+      "team": "KC"
+    },
+    {
+      "bye": 6,
+      "espn_id": "4036133",
+      "formats": {
+        "2qb": 98,
+        "half-ppr": 73,
+        "ppr": 76,
+        "standard": 78
+      },
+      "name": "T.J. Hockenson",
+      "position": "TE",
+      "team": "MIN"
+    },
+    {
+      "bye": 10,
+      "espn_id": "15847",
+      "formats": {
+        "2qb": 99,
+        "half-ppr": 74,
+        "ppr": 70,
+        "standard": 84
+      },
+      "name": "Travis Kelce",
+      "position": "TE",
+      "team": "KC"
+    },
+    {
+      "bye": 5,
+      "espn_id": "4431299",
+      "formats": {
+        "2qb": 100,
+        "half-ppr": 87,
+        "ppr": 88,
+        "standard": 82
+      },
+      "name": "Rome Odunze",
+      "position": "WR",
+      "team": "CHI"
+    },
+    {
+      "bye": 10,
+      "formats": {
+        "2qb": 101,
+        "ppr": 225
+      },
+      "name": "Cameron Ward",
+      "position": "QB",
+      "team": "TEN"
+    },
+    {
+      "bye": 14,
+      "espn_id": "4360516",
+      "formats": {
+        "2qb": 102,
+        "half-ppr": 81,
+        "ppr": 85,
+        "standard": 81
+      },
+      "name": "Tyrone Tracy Jr.",
+      "position": "RB",
+      "team": "NYG"
+    },
+    {
+      "bye": 9,
+      "espn_id": "3116165",
+      "formats": {
+        "2qb": 103,
+        "half-ppr": 82,
+        "ppr": 77,
+        "standard": 87
+      },
+      "name": "Chris Godwin",
+      "position": "WR",
+      "team": "TB"
+    },
+    {
+      "bye": 11,
+      "espn_id": "4361370",
+      "formats": {
+        "2qb": 104,
+        "half-ppr": 79,
+        "ppr": 83,
+        "standard": 85
+      },
+      "name": "Chris Olave",
+      "position": "WR",
+      "team": "NO"
+    },
+    {
+      "bye": 5,
+      "espn_id": "4701936",
+      "formats": {
+        "2qb": 105,
+        "half-ppr": 88,
+        "ppr": 95,
+        "standard": 80
+      },
+      "name": "Matthew Golden",
+      "position": "WR",
+      "team": "GB"
+    },
+    {
+      "bye": 5,
+      "espn_id": "4569987",
+      "formats": {
+        "2qb": 106,
+        "half-ppr": 84,
+        "ppr": 81,
+        "standard": 94
+      },
+      "name": "Jaylen Warren",
+      "position": "RB",
+      "team": "PIT"
+    },
+    {
+      "bye": 7,
+      "espn_id": "4635008",
+      "formats": {
+        "2qb": 107,
+        "half-ppr": 103,
+        "ppr": 113,
+        "standard": 88
+      },
+      "name": "Keon Coleman",
+      "position": "WR",
+      "team": "BUF"
+    },
+    {
+      "bye": 9,
+      "espn_id": "3123076",
+      "formats": {
+        "2qb": 108,
+        "ppr": 86,
+        "standard": 90
+      },
+      "name": "David Njoku",
+      "position": "TE",
+      "team": "CLE"
+    },
+    {
+      "bye": 5,
+      "espn_id": "4040655",
+      "formats": {
+        "2qb": 109,
+        "half-ppr": 93,
+        "ppr": 102
+      },
+      "name": "Darnell Mooney",
+      "position": "WR",
+      "team": "ATL"
+    },
+    {
+      "bye": 6,
+      "espn_id": "4429205",
+      "formats": {
+        "2qb": 110,
+        "half-ppr": 99,
+        "ppr": 101,
+        "standard": 97
+      },
+      "name": "Jordan Addison",
+      "position": "WR",
+      "team": "MIN"
+    },
+    {
+      "bye": 6,
+      "espn_id": "4360569",
+      "formats": {
+        "2qb": 111,
+        "half-ppr": 94,
+        "ppr": 123,
+        "standard": 92
+      },
+      "name": "Jordan Mason",
+      "position": "RB",
+      "team": "MIN"
+    },
+    {
+      "bye": 14,
+      "espn_id": "4428209",
+      "formats": {
+        "2qb": 112,
+        "half-ppr": 95,
+        "ppr": 104,
+        "standard": 91
+      },
+      "name": "Ricky Pearsall",
+      "position": "WR",
+      "team": "SF"
+    },
+    {
+      "bye": 7,
+      "espn_id": "4373678",
+      "formats": {
+        "2qb": 113,
+        "half-ppr": 92,
+        "ppr": 90,
+        "standard": 98
+      },
+      "name": "Khalil Shakir",
+      "position": "WR",
+      "team": "BUF"
+    },
+    {
+      "bye": 5,
+      "espn_id": "8439",
+      "formats": {
+        "2qb": 114,
+        "ppr": 209
+      },
+      "name": "Aaron Rodgers",
+      "position": "QB",
+      "team": "PIT"
+    },
+    {
+      "bye": 5,
+      "espn_id": "4572680",
+      "formats": {
+        "2qb": 115,
+        "half-ppr": 97,
+        "ppr": 118
+      },
+      "name": "Tucker Kraft",
+      "position": "TE",
+      "team": "GB"
+    },
+    {
+      "bye": 14,
+      "espn_id": "2976212",
+      "formats": {
+        "2qb": 116,
+        "half-ppr": 86,
+        "ppr": 87,
+        "standard": 93
+      },
+      "name": "Stefon Diggs",
+      "position": "WR",
+      "team": "NE"
+    },
+    {
+      "bye": 12,
+      "espn_id": "4241985",
+      "formats": {
+        "2qb": 117,
+        "half-ppr": 90,
+        "ppr": 93,
+        "standard": 95
+      },
+      "name": "J.K. Dobbins",
+      "position": "RB",
+      "team": "DEN"
+    },
+    {
+      "bye": 11,
+      "espn_id": "4032473",
+      "formats": {
+        "2qb": 118,
+        "half-ppr": 105,
+        "ppr": 111
+      },
+      "name": "Rashid Shaheed",
+      "position": "WR",
+      "team": "NO"
+    },
+    {
+      "bye": 10,
+      "formats": {
+        "2qb": 119,
+        "ppr": 97
+      },
+      "name": "Dallas Defense",
+      "position": "DEF",
+      "team": "DAL"
+    },
+    {
+      "bye": 8,
+      "espn_id": "2977187",
+      "formats": {
+        "2qb": 120,
+        "half-ppr": 96,
+        "ppr": 94,
+        "standard": 99
+      },
+      "name": "Cooper Kupp",
+      "position": "WR",
+      "team": "SEA"
+    },
+    {
+      "bye": 14,
+      "espn_id": "4696981",
+      "formats": {
+        "2qb": 121,
+        "half-ppr": 119,
+        "ppr": 117,
+        "standard": 108
+      },
+      "name": "Cam Skattebo",
+      "position": "RB",
+      "team": "NYG"
+    },
+    {
+      "bye": 11,
+      "espn_id": "4688813",
+      "formats": {
+        "2qb": 122,
+        "half-ppr": 108,
+        "ppr": 107,
+        "standard": 102
+      },
+      "name": "Josh Downs",
+      "position": "WR",
+      "team": "IND"
+    },
+    {
+      "bye": 10,
+      "espn_id": "4361579",
+      "formats": {
+        "2qb": 123,
+        "half-ppr": 100,
+        "ppr": 99,
+        "standard": 115
+      },
+      "name": "Javonte Williams",
+      "position": "RB",
+      "team": "DAL"
+    },
+    {
+      "bye": 14,
+      "formats": {
+        "2qb": 124,
+        "ppr": 105,
+        "standard": 101
+      },
+      "name": "NY Giants Defense",
+      "position": "DEF",
+      "team": "NYG"
+    },
+    {
+      "bye": 11,
+      "espn_id": "4035687",
+      "formats": {
+        "2qb": 125,
+        "half-ppr": 104,
+        "ppr": 103,
+        "standard": 105
+      },
+      "name": "Michael Pittman Jr.",
+      "position": "WR",
+      "team": "IND"
+    },
+    {
+      "bye": 12,
+      "formats": {
+        "2qb": 126,
+        "half-ppr": 111,
+        "ppr": 108,
+        "standard": 104
+      },
+      "name": "Denver Defense",
+      "position": "DEF",
+      "team": "DEN"
+    },
+    {
+      "bye": 9,
+      "espn_id": "3121023",
+      "formats": {
+        "2qb": 127,
+        "half-ppr": 130,
+        "ppr": 131,
+        "standard": 116
+      },
+      "name": "Dallas Goedert",
+      "position": "TE",
+      "team": "PHI"
+    },
+    {
+      "bye": 14,
+      "espn_id": "4569173",
+      "formats": {
+        "2qb": 128,
+        "half-ppr": 102,
+        "ppr": 124,
+        "standard": 103
+      },
+      "name": "Rhamondre Stevenson",
+      "position": "RB",
+      "team": "NE"
+    },
+    {
+      "bye": 7,
+      "espn_id": "4360939",
+      "formats": {
+        "2qb": 129,
+        "ppr": 153
+      },
+      "name": "Rashod Bateman",
+      "position": "WR",
+      "team": "BAL"
+    },
+    {
+      "bye": 9,
+      "espn_id": "4567750",
+      "formats": {
+        "2qb": 130,
+        "half-ppr": 116,
+        "ppr": 126,
+        "standard": 114
+      },
+      "name": "Emeka Egbuka",
+      "position": "WR",
+      "team": "TB"
+    },
+    {
+      "bye": 10,
+      "espn_id": "3953687",
+      "formats": {
+        "2qb": 131,
+        "half-ppr": 141,
+        "ppr": 146,
+        "standard": 133
+      },
+      "name": "Brandon Aubrey",
+      "position": "PK",
+      "team": "DAL"
+    },
+    {
+      "bye": 11,
+      "formats": {
+        "2qb": 132,
+        "ppr": 234
+      },
+      "name": "Anthony Richardson Sr.",
+      "position": "QB",
+      "team": "IND"
+    },
+    {
+      "bye": 10,
+      "espn_id": "4242355",
+      "formats": {
+        "2qb": 133,
+        "half-ppr": 114,
+        "ppr": 112,
+        "standard": 121
+      },
+      "name": "Jake Ferguson",
+      "position": "TE",
+      "team": "DAL"
+    },
+    {
+      "bye": 12,
+      "espn_id": "4686472",
+      "formats": {
+        "2qb": 134,
+        "half-ppr": 126,
+        "ppr": 140,
+        "standard": 107
+      },
+      "name": "Marvin Mims Jr.",
+      "position": "WR",
+      "team": "DEN"
+    },
+    {
+      "bye": 9,
+      "espn_id": "4685702",
+      "formats": {
+        "2qb": 135,
+        "half-ppr": 120,
+        "ppr": 134,
+        "standard": 130
+      },
+      "name": "Quinshon Judkins",
+      "position": "RB",
+      "team": "CLE"
+    },
+    {
+      "bye": 14,
+      "espn_id": "14881",
+      "formats": {
+        "2qb": 136
+      },
+      "name": "Russell Wilson",
+      "position": "QB",
+      "team": "NYG"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4239996",
+      "formats": {
+        "2qb": 137,
+        "half-ppr": 101,
+        "ppr": 100,
+        "standard": 122
+      },
+      "name": "Travis Etienne Jr.",
+      "position": "RB",
+      "team": "JAX"
+    },
+    {
+      "bye": 14,
+      "espn_id": "4360438",
+      "formats": {
+        "2qb": 138,
+        "half-ppr": 127,
+        "ppr": 147,
+        "standard": 110
+      },
+      "name": "Brandon Aiyuk",
+      "position": "WR",
+      "team": "SF"
+    },
+    {
+      "bye": 11,
+      "espn_id": "4431459",
+      "formats": {
+        "2qb": 139,
+        "half-ppr": 146,
+        "ppr": 144,
+        "standard": 135
+      },
+      "name": "Tyler Warren",
+      "position": "TE",
+      "team": "IND"
+    },
+    {
+      "bye": 7,
+      "formats": {
+        "2qb": 140,
+        "half-ppr": 124,
+        "ppr": 119,
+        "standard": 119
+      },
+      "name": "Baltimore Defense",
+      "position": "DEF",
+      "team": "BAL"
+    },
+    {
+      "bye": 9,
+      "formats": {
+        "2qb": 141,
+        "half-ppr": 117,
+        "ppr": 116,
+        "standard": 118
+      },
+      "name": "Philadelphia Defense",
+      "position": "DEF",
+      "team": "PHI"
+    },
+    {
+      "bye": 12,
+      "espn_id": "15818",
+      "formats": {
+        "2qb": 142,
+        "half-ppr": 109,
+        "ppr": 127,
+        "standard": 112
+      },
+      "name": "Keenan Allen",
+      "position": "WR",
+      "team": "LAC"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4429013",
+      "formats": {
+        "2qb": 143,
+        "half-ppr": 131,
+        "ppr": 145,
+        "standard": 109
+      },
+      "name": "Tank Bigsby",
+      "position": "RB",
+      "team": "JAX"
+    },
+    {
+      "bye": 12,
+      "formats": {
+        "2qb": 144,
+        "ppr": 151
+      },
+      "name": "Tre' Harris",
+      "position": "WR",
+      "team": "LAC"
+    },
+    {
+      "bye": 5,
+      "espn_id": "4426386",
+      "formats": {
+        "2qb": 145,
+        "ppr": 185
+      },
+      "name": "Roschon Johnson",
+      "position": "RB",
+      "team": "CHI"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4426385",
+      "formats": {
+        "2qb": 146,
+        "half-ppr": 118,
+        "ppr": 120,
+        "standard": 117
+      },
+      "name": "Zach Charbonnet",
+      "position": "RB",
+      "team": "SEA"
+    },
+    {
+      "bye": 9,
+      "espn_id": "4369863",
+      "formats": {
+        "2qb": 147,
+        "half-ppr": 115,
+        "ppr": 135
+      },
+      "name": "Cedric Tillman",
+      "position": "WR",
+      "team": "CLE"
+    },
+    {
+      "bye": 10,
+      "formats": {
+        "2qb": 148,
+        "ppr": 133,
+        "standard": 123
+      },
+      "name": "Marquise Brown",
+      "position": "WR",
+      "team": "KC"
+    },
+    {
+      "bye": 12,
+      "espn_id": "3051876",
+      "formats": {
+        "2qb": 149,
+        "half-ppr": 113,
+        "ppr": 98,
+        "standard": 139
+      },
+      "name": "Evan Engram",
+      "position": "TE",
+      "team": "DEN"
+    },
+    {
+      "bye": 5,
+      "formats": {
+        "2qb": 150,
+        "half-ppr": 123,
+        "ppr": 125
+      },
+      "name": "Pittsburgh Defense",
+      "position": "DEF",
+      "team": "PIT"
+    },
+    {
+      "bye": 11,
+      "espn_id": "4360689",
+      "formats": {
+        "2qb": 151
+      },
+      "name": "Tyler Shough",
+      "position": "QB",
+      "team": "NO"
+    },
+    {
+      "bye": 6,
+      "espn_id": "3895856",
+      "formats": {
+        "2qb": 152,
+        "half-ppr": 135,
+        "ppr": 132,
+        "standard": 125
+      },
+      "name": "Christian Kirk",
+      "position": "WR",
+      "team": "HOU"
+    },
+    {
+      "bye": 12,
+      "espn_id": "4241457",
+      "formats": {
+        "2qb": 153,
+        "half-ppr": 136,
+        "ppr": 141,
+        "standard": 138
+      },
+      "name": "Najee Harris",
+      "position": "RB",
+      "team": "LAC"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4882093",
+      "formats": {
+        "2qb": 154,
+        "ppr": 180
+      },
+      "name": "Bhayshul Tuten",
+      "position": "RB",
+      "team": "JAX"
+    },
+    {
+      "bye": 6,
+      "espn_id": "4877706",
+      "formats": {
+        "2qb": 155,
+        "half-ppr": 133,
+        "ppr": 149,
+        "standard": 124
+      },
+      "name": "Jayden Higgins",
+      "position": "WR",
+      "team": "HOU"
+    },
+    {
+      "bye": 7,
+      "formats": {
+        "2qb": 156,
+        "ppr": 128,
+        "standard": 127
+      },
+      "name": "Buffalo Defense",
+      "position": "DEF",
+      "team": "BUF"
+    },
+    {
+      "bye": 14,
+      "espn_id": "4689114",
+      "formats": {
+        "2qb": 157
+      },
+      "name": "Jaxson Dart",
+      "position": "QB",
+      "team": "NYG"
+    },
+    {
+      "bye": 7,
+      "espn_id": "4385690",
+      "formats": {
+        "2qb": 158,
+        "half-ppr": 142,
+        "ppr": 142,
+        "standard": 137
+      },
+      "name": "Dalton Kincaid",
+      "position": "TE",
+      "team": "BUF"
+    },
+    {
+      "bye": 14,
+      "espn_id": "16460",
+      "formats": {
+        "2qb": 159,
+        "half-ppr": 121,
+        "ppr": 129
+      },
+      "name": "Adam Thielen",
+      "position": "WR",
+      "team": "CAR"
+    },
+    {
+      "bye": 12,
+      "espn_id": "4362081",
+      "formats": {
+        "2qb": 160,
+        "half-ppr": 138,
+        "ppr": 156,
+        "standard": 131
+      },
+      "name": "Cameron Dicker",
+      "position": "PK",
+      "team": "LAC"
+    },
+    {
+      "bye": 12,
+      "espn_id": "4249087",
+      "formats": {
+        "2qb": 161,
+        "ppr": 152
+      },
+      "name": "Matt Gay",
+      "position": "PK",
+      "team": "WAS"
+    },
+    {
+      "bye": 10,
+      "espn_id": "4428557",
+      "formats": {
+        "2qb": 162,
+        "half-ppr": 129,
+        "ppr": 121
+      },
+      "name": "Tyjae Spears",
+      "position": "RB",
+      "team": "TEN"
+    },
+    {
+      "bye": 9,
+      "espn_id": "4432762",
+      "formats": {
+        "2qb": 163
+      },
+      "name": "Shedeur Sanders",
+      "position": "QB",
+      "team": "CLE"
+    },
+    {
+      "bye": 5,
+      "espn_id": "4361432",
+      "formats": {
+        "2qb": 164,
+        "ppr": 165
+      },
+      "name": "Romeo Doubs",
+      "position": "WR",
+      "team": "GB"
+    },
+    {
+      "bye": 11,
+      "espn_id": "3917792",
+      "formats": {
+        "2qb": 165
+      },
+      "name": "Daniel Jones",
+      "position": "QB",
+      "team": "IND"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4689936",
+      "formats": {
+        "2qb": 166,
+        "half-ppr": 144,
+        "ppr": 162,
+        "standard": 129
+      },
+      "name": "Jake Bates",
+      "position": "PK",
+      "team": "DET"
+    },
+    {
+      "bye": 9,
+      "espn_id": "4372019",
+      "formats": {
+        "2qb": 167,
+        "half-ppr": 147,
+        "ppr": 148
+      },
+      "name": "Jerome Ford",
+      "position": "RB",
+      "team": "CLE"
+    },
+    {
+      "bye": 5,
+      "formats": {
+        "2qb": 168,
+        "half-ppr": 154,
+        "ppr": 161,
+        "standard": 140
+      },
+      "name": "Kyle Pitts Sr.",
+      "position": "TE",
+      "team": "ATL"
+    },
+    {
+      "bye": 9,
+      "espn_id": "11252",
+      "formats": {
+        "2qb": 169
+      },
+      "name": "Joe Flacco",
+      "position": "QB",
+      "team": "CLE"
+    },
+    {
+      "bye": 5,
+      "espn_id": "4723086",
+      "formats": {
+        "2qb": 170,
+        "half-ppr": 139,
+        "ppr": 157,
+        "standard": 144
+      },
+      "name": "Colston Loveland",
+      "position": "TE",
+      "team": "CHI"
+    },
+    {
+      "bye": 6,
+      "formats": {
+        "2qb": 171,
+        "half-ppr": 137,
+        "ppr": 139,
+        "standard": 134
+      },
+      "name": "Houston Defense",
+      "position": "DEF",
+      "team": "HOU"
+    },
+    {
+      "bye": 12,
+      "espn_id": "4429025",
+      "formats": {
+        "2qb": 172,
+        "ppr": 195
+      },
+      "name": "Quentin Johnston",
+      "position": "WR",
+      "team": "LAC"
+    },
+    {
+      "bye": 7,
+      "espn_id": "3917232",
+      "formats": {
+        "2qb": 173,
+        "ppr": 168
+      },
+      "name": "Tyler Bass",
+      "position": "PK",
+      "team": "BUF"
+    },
+    {
+      "bye": 5,
+      "espn_id": "4373626",
+      "formats": {
+        "2qb": 174,
+        "ppr": 184
+      },
+      "name": "Tyler Allgeier",
+      "position": "RB",
+      "team": "ATL"
+    },
+    {
+      "bye": 12,
+      "espn_id": "15835",
+      "formats": {
+        "2qb": 175,
+        "ppr": 159,
+        "standard": 149
+      },
+      "name": "Zach Ertz",
+      "position": "TE",
+      "team": "WAS"
+    },
+    {
+      "bye": 10,
+      "espn_id": "3055899",
+      "formats": {
+        "2qb": 176,
+        "ppr": 166,
+        "standard": 141
+      },
+      "name": "Harrison Butker",
+      "position": "PK",
+      "team": "KC"
+    },
+    {
+      "bye": 10,
+      "espn_id": "4685279",
+      "formats": {
+        "2qb": 177,
+        "half-ppr": 143,
+        "ppr": 160,
+        "standard": 146
+      },
+      "name": "Jaydon Blue",
+      "position": "RB",
+      "team": "DAL"
+    },
+    {
+      "bye": 6,
+      "espn_id": "3128720",
+      "formats": {
+        "2qb": 178,
+        "half-ppr": 151,
+        "ppr": 163,
+        "standard": 156
+      },
+      "name": "Nick Chubb",
+      "position": "RB",
+      "team": "HOU"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4429275",
+      "formats": {
+        "2qb": 179,
+        "half-ppr": 145,
+        "ppr": 158,
+        "standard": 136
+      },
+      "name": "Trey Benson",
+      "position": "RB",
+      "team": "ARI"
+    },
+    {
+      "bye": 6,
+      "formats": {
+        "2qb": 180,
+        "half-ppr": 153,
+        "ppr": 164,
+        "standard": 151
+      },
+      "name": "Minnesota Defense",
+      "position": "DEF",
+      "team": "MIN"
+    },
+    {
+      "bye": 8,
+      "formats": {
+        "2qb": 181,
+        "half-ppr": 148,
+        "ppr": 154,
+        "standard": 143
+      },
+      "name": "Detroit Defense",
+      "position": "DEF",
+      "team": "DET"
+    },
+    {
+      "bye": 14,
+      "espn_id": "4372561",
+      "formats": {
+        "2qb": 182,
+        "half-ppr": 150,
+        "ppr": 173,
+        "standard": 153
+      },
+      "name": "Isaac Guerendo",
+      "position": "RB",
+      "team": "SF"
+    },
+    {
+      "bye": 9,
+      "espn_id": "3150744",
+      "formats": {
+        "2qb": 183,
+        "ppr": 179,
+        "standard": 145
+      },
+      "name": "Chase McLaughlin",
+      "position": "PK",
+      "team": "TB"
+    },
+    {
+      "bye": 7,
+      "espn_id": "4429501",
+      "formats": {
+        "2qb": 184,
+        "half-ppr": 152,
+        "ppr": 171,
+        "standard": 150
+      },
+      "name": "Ray Davis",
+      "position": "RB",
+      "team": "BUF"
+    },
+    {
+      "bye": 9,
+      "formats": {
+        "2qb": 185,
+        "ppr": 203
+      },
+      "name": "NY Jets Defense",
+      "position": "DEF",
+      "team": "NYJ"
+    },
+    {
+      "bye": 9,
+      "espn_id": "4685247",
+      "formats": {
+        "2qb": 186,
+        "half-ppr": 164,
+        "ppr": 188
+      },
+      "name": "Braelon Allen",
+      "position": "RB",
+      "team": "NYJ"
+    },
+    {
+      "bye": 7,
+      "espn_id": "4242433",
+      "formats": {
+        "2qb": 187,
+        "half-ppr": 149,
+        "ppr": 196,
+        "standard": 132
+      },
+      "name": "Joshua Palmer",
+      "position": "WR",
+      "team": "BUF"
+    },
+    {
+      "bye": 12,
+      "espn_id": "3068267",
+      "formats": {
+        "2qb": 188,
+        "half-ppr": 128,
+        "ppr": 114
+      },
+      "name": "Austin Ekeler",
+      "position": "RB",
+      "team": "WAS"
+    },
+    {
+      "bye": 5,
+      "formats": {
+        "2qb": 189,
+        "half-ppr": 158,
+        "ppr": 200
+      },
+      "name": "Green Bay Defense",
+      "position": "DEF",
+      "team": "GB"
+    },
+    {
+      "bye": 9,
+      "espn_id": "3050478",
+      "formats": {
+        "2qb": 190,
+        "ppr": 174
+      },
+      "name": "Jake Elliott",
+      "position": "PK",
+      "team": "PHI"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4686361",
+      "formats": {
+        "2qb": 191,
+        "ppr": 207
+      },
+      "name": "Cam Little",
+      "position": "PK",
+      "team": "JAX"
+    },
+    {
+      "bye": 14,
+      "formats": {
+        "2qb": 192,
+        "half-ppr": 162,
+        "ppr": 198,
+        "standard": 157
+      },
+      "name": "San Francisco Defense",
+      "position": "DEF",
+      "team": "SF"
+    },
+    {
+      "bye": 14,
+      "espn_id": "4430034",
+      "formats": {
+        "2qb": 193,
+        "ppr": 199
+      },
+      "name": "Xavier Legette",
+      "position": "WR",
+      "team": "CAR"
+    },
+    {
+      "bye": 8,
+      "formats": {
+        "2qb": 194,
+        "half-ppr": 159,
+        "ppr": 187,
+        "standard": 155
+      },
+      "name": "LA Rams Defense",
+      "position": "DEF",
+      "team": "LAR"
+    },
+    {
+      "bye": 10,
+      "espn_id": "4360234",
+      "formats": {
+        "2qb": 195,
+        "half-ppr": 155,
+        "ppr": 183,
+        "standard": 152
+      },
+      "name": "Evan McPherson",
+      "position": "PK",
+      "team": "CIN"
+    },
+    {
+      "bye": 5,
+      "formats": {
+        "2qb": 196,
+        "ppr": 169
+      },
+      "name": "Chicago Defense",
+      "position": "DEF",
+      "team": "CHI"
+    },
+    {
+      "bye": 9,
+      "espn_id": "4697815",
+      "formats": {
+        "2qb": 197,
+        "half-ppr": 125,
+        "ppr": 138
+      },
+      "name": "Rachaad White",
+      "position": "RB",
+      "team": "TB"
+    },
+    {
+      "bye": 14,
+      "espn_id": "4569587",
+      "formats": {
+        "2qb": 198,
+        "ppr": 143
+      },
+      "name": "Wan'Dale Robinson",
+      "position": "WR",
+      "team": "NYG"
+    },
+    {
+      "bye": 10,
+      "formats": {
+        "2qb": 199,
+        "half-ppr": 161,
+        "ppr": 211
+      },
+      "name": "Kansas City Defense",
+      "position": "DEF",
+      "team": "KC"
+    },
+    {
+      "bye": 7,
+      "espn_id": "15795",
+      "formats": {
+        "2qb": 200,
+        "ppr": 242,
+        "standard": 158
+      },
+      "name": "DeAndre Hopkins",
+      "position": "WR",
+      "team": "BAL"
+    },
+    {
+      "bye": 7,
+      "espn_id": "4697745",
+      "formats": {
+        "2qb": 201,
+        "half-ppr": 157,
+        "ppr": 213
+      },
+      "name": "Tyler Loop",
+      "position": "PK",
+      "team": "BAL"
+    },
+    {
+      "bye": 5,
+      "espn_id": "4685278",
+      "formats": {
+        "2qb": 202,
+        "ppr": 191
+      },
+      "name": "Luther Burden III",
+      "position": "WR",
+      "team": "CHI"
+    },
+    {
+      "bye": 5,
+      "espn_id": "17372",
+      "formats": {
+        "2qb": 203,
+        "ppr": 220
+      },
+      "name": "Chris Boswell",
+      "position": "PK",
+      "team": "PIT"
+    },
+    {
+      "bye": 14,
+      "espn_id": "4613202",
+      "formats": {
+        "2qb": 204,
+        "ppr": 231
+      },
+      "name": "Kyle Williams",
+      "position": "WR",
+      "team": "NE"
+    },
+    {
+      "bye": 8,
+      "formats": {
+        "2qb": 205,
+        "ppr": 181
+      },
+      "name": "Arizona Defense",
+      "position": "DEF",
+      "team": "ARI"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4603186",
+      "formats": {
+        "2qb": 206,
+        "ppr": 216
+      },
+      "name": "Jack Bech",
+      "position": "WR",
+      "team": "LV"
+    },
+    {
+      "bye": 6,
+      "espn_id": "2971573",
+      "formats": {
+        "2qb": 207,
+        "half-ppr": 160,
+        "ppr": 215,
+        "standard": 154
+      },
+      "name": "Ka'imi Fairbairn",
+      "position": "PK",
+      "team": "HOU"
+    },
+    {
+      "bye": 5,
+      "espn_id": "3049899",
+      "formats": {
+        "2qb": 208,
+        "ppr": 218
+      },
+      "name": "Younghoe Koo",
+      "position": "PK",
+      "team": "ATL"
+    },
+    {
+      "bye": 12,
+      "espn_id": "3124679",
+      "formats": {
+        "2qb": 209,
+        "ppr": 239
+      },
+      "name": "Jason Sanders",
+      "position": "PK",
+      "team": "MIA"
+    },
+    {
+      "bye": 5,
+      "espn_id": "16339",
+      "formats": {
+        "2qb": 210,
+        "ppr": 236
+      },
+      "name": "Brandon McManus",
+      "position": "PK",
+      "team": "GB"
+    },
+    {
+      "bye": 8,
+      "espn_id": "5123663",
+      "formats": {
+        "ppr": 136
+      },
+      "name": "Isaac TeSlaa",
+      "position": "WR",
+      "team": "DET"
+    },
+    {
+      "bye": 9,
+      "espn_id": "5081397",
+      "formats": {
+        "ppr": 167
+      },
+      "name": "Dylan Sampson",
+      "position": "RB",
+      "team": "CLE"
+    },
+    {
+      "bye": 5,
+      "espn_id": "3054212",
+      "formats": {
+        "ppr": 172
+      },
+      "name": "Jonnu Smith",
+      "position": "TE",
+      "team": "PIT"
+    },
+    {
+      "bye": 7,
+      "espn_id": "4361050",
+      "formats": {
+        "ppr": 175
+      },
+      "name": "Isaiah Likely",
+      "position": "TE",
+      "team": "BAL"
+    },
+    {
+      "bye": 10,
+      "espn_id": "3059915",
+      "formats": {
+        "ppr": 177
+      },
+      "name": "Kareem Hunt",
+      "position": "RB",
+      "team": "KC"
+    },
+    {
+      "bye": 9,
+      "formats": {
+        "ppr": 178
+      },
+      "name": "Cleveland Defense",
+      "position": "DEF",
+      "team": "CLE"
+    },
+    {
+      "bye": 10,
+      "espn_id": "4360635",
+      "formats": {
+        "ppr": 182
+      },
+      "name": "Chig Okonkwo",
+      "position": "TE",
+      "team": "TEN"
+    },
+    {
+      "bye": 10,
+      "espn_id": "3116164",
+      "formats": {
+        "ppr": 186
+      },
+      "name": "Mike Gesicki",
+      "position": "TE",
+      "team": "CIN"
+    },
+    {
+      "bye": 14,
+      "espn_id": "4427095",
+      "formats": {
+        "ppr": 189
+      },
+      "name": "DeMario Douglas",
+      "position": "WR",
+      "team": "NE"
+    },
+    {
+      "bye": 9,
+      "espn_id": "4243331",
+      "formats": {
+        "ppr": 192
+      },
+      "name": "Cade Otton",
+      "position": "TE",
+      "team": "TB"
+    },
+    {
+      "bye": 14,
+      "espn_id": "3046439",
+      "formats": {
+        "ppr": 193
+      },
+      "name": "Hunter Henry",
+      "position": "TE",
+      "team": "NE"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4429096",
+      "formats": {
+        "ppr": 194
+      },
+      "name": "Blake Corum",
+      "position": "RB",
+      "team": "LAR"
+    },
+    {
+      "bye": 10,
+      "espn_id": "4429299",
+      "formats": {
+        "ppr": 197
+      },
+      "name": "Tahj Brooks",
+      "position": "RB",
+      "team": "CIN"
+    },
+    {
+      "bye": 6,
+      "espn_id": "4429059",
+      "formats": {
+        "ppr": 201
+      },
+      "name": "Woody Marks",
+      "position": "RB",
+      "team": "HOU"
+    },
+    {
+      "bye": 12,
+      "espn_id": "4575131",
+      "formats": {
+        "ppr": 202
+      },
+      "name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "team": "WAS"
+    },
+    {
+      "bye": 12,
+      "espn_id": "2576925",
+      "formats": {
+        "ppr": 204
+      },
+      "name": "Darren Waller",
+      "position": "TE",
+      "team": "MIA"
+    },
+    {
+      "bye": 8,
+      "formats": {
+        "ppr": 206
+      },
+      "name": "Seattle Defense",
+      "position": "DEF",
+      "team": "SEA"
+    },
+    {
+      "bye": 14,
+      "formats": {
+        "ppr": 208
+      },
+      "name": "New England Defense",
+      "position": "DEF",
+      "team": "NE"
+    },
+    {
+      "bye": 7,
+      "espn_id": "4596334",
+      "formats": {
+        "ppr": 210
+      },
+      "name": "Keaton Mitchell",
+      "position": "RB",
+      "team": "BAL"
+    },
+    {
+      "bye": 12,
+      "espn_id": "4682745",
+      "formats": {
+        "ppr": 212
+      },
+      "name": "Jaylen Wright",
+      "position": "RB",
+      "team": "MIA"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4678006",
+      "formats": {
+        "ppr": 214
+      },
+      "name": "Elijah Arroyo",
+      "position": "TE",
+      "team": "SEA"
+    },
+    {
+      "bye": 9,
+      "formats": {
+        "ppr": 217
+      },
+      "name": "Tampa Bay Defense",
+      "position": "DEF",
+      "team": "TB"
+    },
+    {
+      "bye": 14,
+      "espn_id": "4372066",
+      "formats": {
+        "ppr": 219
+      },
+      "name": "Jake Moody",
+      "position": "PK",
+      "team": "SF"
+    },
+    {
+      "bye": 12,
+      "formats": {
+        "ppr": 222
+      },
+      "name": "LA Chargers Defense",
+      "position": "DEF",
+      "team": "LAC"
+    },
+    {
+      "bye": 9,
+      "espn_id": "3932905",
+      "formats": {
+        "ppr": 223
+      },
+      "name": "Diontae Johnson",
+      "position": "WR",
+      "team": "CLE"
+    },
+    {
+      "bye": 14,
+      "espn_id": "4038815",
+      "formats": {
+        "ppr": 224
+      },
+      "name": "Rico Dowdle",
+      "position": "RB",
+      "team": "CAR"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4432775",
+      "formats": {
+        "ppr": 226
+      },
+      "name": "Dont'e Thornton Jr.",
+      "position": "WR",
+      "team": "LV"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4360761",
+      "formats": {
+        "ppr": 227
+      },
+      "name": "Michael Wilson",
+      "position": "WR",
+      "team": "ARI"
+    },
+    {
+      "bye": 7,
+      "espn_id": "4038441",
+      "formats": {
+        "ppr": 228
+      },
+      "name": "Justice Hill",
+      "position": "RB",
+      "team": "BAL"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4566192",
+      "formats": {
+        "ppr": 229
+      },
+      "name": "Joshua Karty",
+      "position": "PK",
+      "team": "LAR"
+    },
+    {
+      "bye": 6,
+      "espn_id": "4567104",
+      "formats": {
+        "ppr": 230
+      },
+      "name": "Will Reichard",
+      "position": "PK",
+      "team": "MIN"
+    },
+    {
+      "bye": 8,
+      "espn_id": "4430539",
+      "formats": {
+        "ppr": 232
+      },
+      "name": "Brenton Strange",
+      "position": "TE",
+      "team": "JAX"
+    },
+    {
+      "bye": 12,
+      "formats": {
+        "ppr": 233
+      },
+      "name": "Washington Defense",
+      "position": "DEF",
+      "team": "WAS"
+    },
+    {
+      "bye": 12,
+      "espn_id": "2985659",
+      "formats": {
+        "ppr": 235
+      },
+      "name": "Wil Lutz",
+      "position": "PK",
+      "team": "DEN"
+    },
+    {
+      "bye": 9,
+      "espn_id": "4430834",
+      "formats": {
+        "ppr": 237
+      },
+      "name": "Jalen McMillan",
+      "position": "WR",
+      "team": "TB"
+    },
+    {
+      "bye": 8,
+      "espn_id": "3051909",
+      "formats": {
+        "ppr": 238
+      },
+      "name": "Daniel Carlson",
+      "position": "PK",
+      "team": "LV"
+    },
+    {
+      "bye": 5,
+      "espn_id": "4243389",
+      "formats": {
+        "ppr": 240
+      },
+      "name": "Calvin Austin III",
+      "position": "WR",
+      "team": "PIT"
+    },
+    {
+      "bye": 10,
+      "espn_id": "2577327",
+      "formats": {
+        "ppr": 241
+      },
+      "name": "Tyler Lockett",
+      "position": "WR",
+      "team": "TEN"
+    },
+    {
+      "bye": 14,
+      "espn_id": "3916945",
+      "formats": {
+        "ppr": 243
+      },
+      "name": "Darius Slayton",
+      "position": "WR",
+      "team": "NYG"
+    },
+    {
+      "bye": 11,
+      "espn_id": "4360078",
+      "formats": {
+        "ppr": 244
+      },
+      "name": "Alec Pierce",
+      "position": "WR",
+      "team": "IND"
+    }
+  ]
+}
