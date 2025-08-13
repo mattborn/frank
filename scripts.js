@@ -37,10 +37,9 @@ async function loadRookies() {
 // Load players data
 async function loadPlayers() {
   try {
-    const today = new Date().toLocaleDateString('en-CA')
-    const response = await fetch(`./data/${today}/players.json`)
+    const response = await fetch('./data/2025-08-12/players.json')
     const data = await response.json()
-    players = data.players.filter(player => Object.keys(player.formats).length > 0)
+    players = data.players.filter(player => Object.keys(player.formats).length)
     
     // Populate filter options
     populateFilters()
